@@ -1,4 +1,4 @@
-# BMP280 sensor API
+# Sir_BMP280 Sensor
 
 > This package contains BMP280 sensor API
 
